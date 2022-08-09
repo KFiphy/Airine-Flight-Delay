@@ -1,15 +1,15 @@
 # Airine-Flight-Delay
 
 
-# Project Challenge:
+# Project Challenge
 
 Flight delay and cancellation action is inherently a problem across airlines, as canceled flights easily outnumber diverted ones in this dataset.
 Using a flight dataset and Microsoft Power Bi, DAX formulas will be used to evaluate some metrics. Once these metrics have been completed, a report visualizing flight performance will be done. 
 
 
-The tool used: Microsoft Power Bi 
+# The tool used: Microsoft Power Bi 
 
-# Techniques:
+# Techniques
 
 Data preparation
 
@@ -21,7 +21,7 @@ Data Analysis
 
 Data Visualization 
 
-#  To deliver:
+#  To deliver
 
 How the overall flight volume varies by month.
 
